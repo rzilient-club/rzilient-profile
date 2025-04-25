@@ -1,0 +1,46 @@
+name: 🧠 GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Runs daily at 6 AM UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Authentication
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Target (change to a username if you want user stats)
+          user: rzilient-club
+
+          # General settings
+          template: classic
+          config_timezone: Europe/Paris
+
+          # Core sections
+          base: header, activity, community, repositories
+
+          # Language breakdown
+          plugin_languages: yes
+          plugin_languages_ignored: html
+          plugin_languages_threshold: 1%
+
+          # Stars, topics
+          plugin_stars: yes
+          plugin_topics: yes
+
+          # Traffic stats
+          plugin_traffic: yes
+
+          # People interactions (followers/following)
+          plugin_people: yes
+          plugin_people_types: followers, following
+
+          # Contribution habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
