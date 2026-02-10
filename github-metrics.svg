@@ -93,10 +93,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.67472162023785" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="270.67472162023785" y="0" width="115.24052380438359" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="385.91524542462145" y="0" width="61.60049187568274" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.5157373003042" y="0" width="12.48426269969581" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.67295587163085" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="270.67295587163085" y="0" width="115.24277284545107" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="385.9157287170819" y="0" width="61.60009002440505" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.51581874148695" y="0" width="12.48418125851305" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
