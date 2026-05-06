@@ -71,7 +71,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    800 views in last two weeks
+                                    698 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -83,7 +83,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    20 Languages
+                    19 Languages
                 </h2>
             </section>
             <section class="column">
@@ -93,13 +93,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.36592357215744" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="193.36592357215744" y="0" width="147.27255381689616" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="340.6384773890536" y="0" width="79.77335871957895" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.4118361086325" y="0" width="19.107451343355496" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.519287451988" y="0" width="9.159937393122823" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="448.67922484511087" y="0" width="5.707903915957589" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="454.3871287610685" y="0" width="5.612871238931528" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.65121304822318" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="192.65121304822318" y="0" width="148.1166339848072" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="340.76784703303036" y="0" width="79.49992788184223" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.26777491487263" y="0" width="19.28067047386377" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="439.5484453887364" y="0" width="9.12854082921705" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="448.6769862179534" y="0" width="5.729381197593217" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.40636741554664" y="0" width="5.5936325844533545" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
